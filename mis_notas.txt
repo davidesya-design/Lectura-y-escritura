@@ -1,0 +1,4 @@
+hoy pude ver como funcionan archivos en Java.
+Es importante no olvidar de poner las llaves ya me a pasado varias veces .
+Practicar con ejemplos me ayuda a comprender mejor.
+El inevitable paso del tiempo algún día hará que todo lo que conocemos deje de existir. Lamentablemente, todos, un día, seremos olvidados.
